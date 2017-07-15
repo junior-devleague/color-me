@@ -8,6 +8,6 @@ Given this HTML structure:
 <div id="purple" class="boxes">Div 4</div>
 ```
 
-Modify *ONLY* the CSS so that the page looks like this: 
+Modify **ONLY** the CSS so that the page looks like this: 
 
 ![end goal](https://github.com/junior-devleague/morning-exercise-css--1/blob/master/Screen%20Shot%202017-07-15%20at%208.54.56%20AM.png?raw=true)
